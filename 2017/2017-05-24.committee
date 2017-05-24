@@ -1,0 +1,106 @@
+# UWA PCS Committee Meeting minutes 2017-05-24
+
+Present: Max, Minh, Mark, Tim, Gozz, Ridge, Lauren
+
+Meeting opened 16:39
+## President's report
+- Ran a contest successfully, with Ridge
+- Ran previous session successfully, with Ridge
+- Did some preparation for next training session. It's an interview training session.
+
+## Vice Pres's report
+- Uhhhhhuhuhuhhhhhhhhhahugh, minute it exactly as that
+- Need to go into UCC some time to set up our VM. Will rope Max into it.
+- Did comp Geom training session. Thankyou Ridge for doing number theory
+
+## Treasurer's report
+- Desparately tried to get an answer out of Coders for Causes, no luck
+- Will atttend SOC meeting.
+
+## Secretary's report
+- ARRRRgggggh, bad at uni. Ridge can attest.
+
+## Fresh Rep's report
+- Nothing to report.
+- Max: Would it be weird to refer to the fresher rep as the fresh prince?
+  - Gozz: Nothing's stoping us
+  - Minh: What if it's a girl next time?
+  - Max: The fresh 'it'.
+## General Business
+- Mark: What is the club's official stance on the clubs running for guild affiliation at the SOC meeting?
+  - UWA Harry Potter society
+    - Gozz: strong no
+  - Sausage and Bun Appreciation Society
+    - Gozz: Their plan is to show up after other club's drinking parties, and do a sausage sizzle.
+    - Max: Strong don't care
+  - UWA Vietnamese Students Associates
+    - Gozz: There's already an Asian party. Up to Mark. Listen to pitch, decide as our representative.
+  - UWA Strings society
+    - Gozz: No, already a bunch of UWA music societies.
+- Ongoing points of discussion
+  - Need to setup the server from UCC. Just want basic scripts for now. Simple webserver and database.
+    - Gozz: Happy with Debian?
+      - Max: Any reasonable Linux is fine.
+    - Want to use Hackerrank or Polygon to prepare our own internal questions and contests.
+      - Gozz: I wonder if we can make a Domjudge looking thin-wrapper interface around hacker rank.
+      - Max: People have had plenty exposure to Domjudge.
+      - Try and setup domjudge in case we need it for training purposes on the debian.
+      // TODO is Max setting up Domjudge an action?
+    - Action: Gozz to setup server with reasonable Linux
+  - Interview training sessions
+    - May as well run one today as we had no plan for training session
+    - Should run one on friday
+      - Gozz: Yep
+      - Action: Max & Gozz to run training session.
+  - Next internal training contest
+    - Ridge
+    - Mark (can't, work is crushing)
+- EMPs
+  - Deadline is end of year. No pressure yet.
+  - Action: Tim to make an EMP.
+- Logo
+  - Gozz looked into it ish.
+  - Can reproduce his section
+  - Hannah busy with uni work.
+  - Action: Gozz to complete before next week.
+- Github of example implementations
+// TODO I can't remember how accurate this was ot the discussion.
+  - Could group source it, let people add or update implementations.
+  - Gozz: Between Max and Gozz could find an accepted implementation in C++ with language tricks, live code that for a training session, submit that to github.
+  - Can we test them on domjudge?
+    - Max: There are still bugs in min-cost max flow. It's a nightmare.
+- Mark: What's our abbreviation?
+  - PCS is fine within UWA
+  - Constitution has the official ones.
+- Gozz: We have $138 bucks from signups. If we implement ranking system and it works well, can award (non-monetary) prizes at the end of the year.
+  - PCS Socks. 
+  - Room is asked if they want PCS socks.
+  - 6 want PCS socks.
+  - Max: Strong dispproval, also wants PCS socks.
+- World finals was announced by Ridge.
+- What are the next two Training sessions?
+  - Max: I'm on top of it.
+  - Need to cover max flow, that's the 80%
+  - Gozz: Go through list of everything we've been over, make a poll for what people want recovered
+  - Mark: We learn incrementally over years.
+  - Action: Max and Gozz to do the interview training session.
+## Previous Action Items
+- Action: Tim to do EMP paperwork.
+  - No progress, uni workload is reducing, will do by next time.
+- Action: Max to work out an interview training plan.
+  - Ongoing
+- Action: Gozz to sort out the new logo
+  - See general business. The full logo is stalled but the basic one is doable.
+- Action: Gozz and Max to work on competition 2, and to recruit others to help.
+  - Thanks to Ridge
+- Action: Max to consider a shared github and practise implementation sessions.
+  - Considered.
+
+## Action Items
+- Action: Max and Gozz to do the interview training session.
+- Action: Gozz to setup server with reasonable Linux.
+- Action: Tim to make an EMP.
+- Action: Gozz to make the basic logo (before next week).
+- Action: Max and Gozz prepare the next training sessions.
+
+Meeting closed 17:00

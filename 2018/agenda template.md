@@ -1,4 +1,8 @@
 # UWA PCS Committee Meeting Agenda yyyy-mm-dd
+ - Meeting Opened: 
+ - Present: 
+ - Apologies: 
+ - Absent: 
 
 ## President's report
 ## Vice Pres's report
@@ -11,3 +15,5 @@
 ## General Business
 ## Previous Action Items
 ## Action Items 
+
+ - Meeting Closed:

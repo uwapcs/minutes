@@ -17,5 +17,8 @@
 ## General Business
 ## Previous Action Items
 ## Action Items 
+ - Training Session Action Items:
+ - Short Term Action Items:
+ - Ongoing/Long Term Action Items:
 
  - Meeting Closed:

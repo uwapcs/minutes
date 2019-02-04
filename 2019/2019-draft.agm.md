@@ -13,6 +13,7 @@ Meeting opened
 ## Amendments to constitution
 
 ## Elections
+- Elect Returning Officers
 - Suspend standing orders
 - President
   - Standing Nominee(s):

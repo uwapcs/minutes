@@ -13,8 +13,9 @@ Meeting opened
 ## Amendments to constitution
 
 ## Elections
-- Elect Returning Officers
 - Suspend standing orders
+  - ___ nominates ___ and ___ as returning officers 
+  - ___ moves that we suspend standing orders and appoint ___ and ___ as returning officers   
 - President
   - Standing Nominee(s):
   - We welcome our new president ___.

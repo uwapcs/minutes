@@ -11,7 +11,7 @@ Meeting opened
 - Fresh Rep's report
 
 ## Amendments to constitution
-
+- Expand committee positions to include a nonvoting Immediate Past President, appointed by executive decision of the new President.
 ## Elections
 - Suspend standing orders
   - ___ nominates ___ and ___ as returning officers 
@@ -19,9 +19,6 @@ Meeting opened
 - President
   - Standing Nominee(s):
   - We welcome our new president ___.
-- Immediate past president
-  - Nomination:
-  - We welcome our new immediate past president ___.
 - Vice Pres
   - Standing Nominee(s):
   - We welcome the new vice-president of PCS, ___.

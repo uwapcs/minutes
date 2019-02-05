@@ -19,7 +19,9 @@ Meeting opened
 - President
   - Standing Nominee(s):
   - We welcome our new president ___.
-  
+- Immediate past president
+  - Nomination:
+  - We welcome our new immediate past president ___.
 - Vice Pres
   - Standing Nominee(s):
   - We welcome the new vice-president of PCS, ___.

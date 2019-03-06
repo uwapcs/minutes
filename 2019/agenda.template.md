@@ -1,8 +1,11 @@
 # UWA PCS Committee Meeting Agenda yyyy-mm-dd
- - Meeting Opened: 
- - Present: 
- - Apologies: 
- - Absent: 
+Meeting Opened: 
+
+Present: 
+
+Apologies: 
+
+Absent: 
 
 ## President's report
 ## Vice Pres's report
@@ -12,13 +15,13 @@
 ## OCM's report
 ## OCM's report
 ## OCM's report
-## Special Max Report
+## IPP report
 ## Events
 ## General Business
 ## Previous Action Items
 ## Action Items 
- - Training Session Action Items:
- - Short Term Action Items:
- - Ongoing/Long Term Action Items:
+- Training Session Action Items:
+- Short Term Action Items:
+- Ongoing/Long Term Action Items:
 
- - Meeting Closed:
+Meeting Closed:

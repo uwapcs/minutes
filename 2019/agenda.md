@@ -1,21 +1,20 @@
-# UWA PCS Committee Meeting Agenda 2019-09-24
+# UWA PCS Committee Meeting Agenda 2019-mm-dd
 
 Meeting Opened:
 
 Present: 
 
-Apologies: Tom, Nic, Gozz
+Apologies: 
 
 Absent:
 
 ## Events
-
 - Training
-  - Gozz ran Matrices and Fast Doubling
+  - Gozz ran Matrices and Fast Doubling on the 17th
     - Had 4-5 attendees plus 1-2 staff
 
 - TWWWKS
-  - Gozz cancelled Life in the Linux Terminal due to having but a single attendee
+  - Gozz cancelled Life in the Linux Terminal on the 18th due to having but a single attendee
   - Tom is hoping for better attendance this week.
 
 - ICPC
@@ -38,41 +37,43 @@ Absent:
     - Gozz: We previously went with providing specific programming-themed games (SHENZHEN I/O, TIS-100, and EXAPUNKS)
       - I have a template to make nice little coupons in the Drive from last year, but currently have no printer
       - Someone please make little coupons (they are designed to fold and be sealed to hide the code)
+  - Gozz got humble keys, with printing the coupons came to a total of $58.40
+  - Event went well, very fun
+  - Unfortunately low PCS attendance, but we *technically* ran the most profitable individual event with Debating (thanks, Jasmine!)
 
 ## General Business
 
 ## Previous Action Items
-
 - ACTION: Nick- make channel in the slack for us to discuss the Study Festival
 - ACTION: Nick - follow through with shirt orders
 - ACTION: Dadams - investigate for after study break
 - ACTION: Nick - make channel to discuss charity vigil prizes
 - ACTION: Tom - make slides for latex
-	- Basically done
-	- Probably just needs a few more slides at most
-	- Thanks to David and Tim Chapman (UCC OCM) for helping
+  - Basically done
+  - Probably just needs a few more slides at most
+  - Thanks to David and Tim Chapman (UCC OCM) for helping
 
 ## President's report (Nick Pitchard)
-  - Ordered shirts
-  - Made some slack channels
-  - Competed in Regionals (fun)
-  - Attended DSC / PCS 1402 study night 
-  - Got excited and merged last week's minutes in too early (apologies)
+- Ordered shirts
+- Made some slack channels
+- Competed in Regionals (fun)
+- Attended DSC / PCS 1402 study night 
+- Got excited and merged last week's minutes in too early (apologies)
 
 ## Vice Pres's report (Tom Hill Almeida)
 - I couldn't make the study night on Friday because UCC had a meeting that went until like 8:30.
 - Have written slides for LaTeX stuff tomorrow.
-	- Please take a look at them people.
+  - Please take a look at them people.
 - Still working on the book.
 - Competed in Regionals and got clapped lmao.
-	- Finished 5 questions in the first 1.5 hours and never solved another one.
+  - Finished 5 questions in the first 1.5 hours and never solved another one.
 - Reminder to all that our minutes should be a pull request until the next meeting, when we confirm them.
-	- Make sure to squash the commits as well. Otherwise we get too much extra stuff.
+  - Make sure to squash the commits as well. Otherwise we get too much extra stuff.
 
 ## Treasurer's report (Jesse Zhou)
 
 ## Secretary's report
-  - put up fb and slack events for the study nights as seen earlier
+- put up fb and slack events for the study nights as seen earlier
 
 ## Fresh Rep's report (Albert Smith)
 
@@ -87,9 +88,10 @@ Absent:
 ## OCM's report (Seamus Mulholland-Patterson)
 
 ## IPP report (Gozz)
-- Ran both sesssions (or at least tried)
+- Ran both sesssions (or at least tried) in week starting 2019-09-15
 - Did tech stuff for ICPC
 - Helped out at CITS1401 night
+- Attended/ran Charity Vigil
 
 ## Action Items
 

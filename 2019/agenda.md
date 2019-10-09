@@ -105,10 +105,17 @@ Absent:
 ## Fresh Rep's report (Albert Smith)
 
 ## OCM's report (Lauren Gee)
-- Attended training last week. It went great.
-- Did competition on the weekend. It went great.
-- Helped out with CITS1401 study night last night. It went great.
-- I also told a few of my CITS1401 students about PCS and they seemed to like the idea, maybe they'll join.
+- Old report from 2019-09-24:
+  - Attended training last week. It went great.
+  - Did competition on the weekend. It went great.
+  - Helped out with CITS1401 study night last night. It went great.
+  - I also told a few of my CITS1401 students about PCS and they seemed to like the idea, maybe they'll join.
+- New report from today (2019-10-08):
+  - Went to Tom's awesome LaTeX talk
+  - Went to training the day before that, but it sadly did not happen because disorganisation
+    - Will we be covering expected value dp in future?
+  - Have started poking people in committe chat, to make sure everyone's up to date with what they need to do
+  - Spoke to a student who is shy about going to training, but really likes the PCS newsletter. Go team!
 
 ## OCM's report (Zahra Ussi)
 

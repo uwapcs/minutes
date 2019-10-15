@@ -39,6 +39,9 @@ Absent:
 - Filed tenancy form
 
 ## Vice Pres's report (Tom Hill Almeida)
+- Still working on the book
+- Has a billion concurrently running assignments
+- Is praying for the end of semester
 
 ## Treasurer's report (Jesse Zhou)
 

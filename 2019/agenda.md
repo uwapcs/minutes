@@ -21,6 +21,8 @@ Absent:
 ## OCM's report
 ## IPP report
 ## Events
+  - Study Marathon
+  - Charity Vigil
 ## General Business
 ## Previous Action Items
 ## Action Items 

@@ -8,6 +8,10 @@ Apologies:
 Absent: 
 
 ## President's report
+  - Attended SOC meeting
+  - Submitted tenancy agreement
+  - Sent out newsletter
+  - M A R K I N G
 ## Vice Pres's report
 ## Treasurer's report
 ## Secretary's report

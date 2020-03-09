@@ -1,9 +1,9 @@
-# UWA PCS Committee Meeting Agenda 2020-03-04
+# UWA PCS Committee Meeting Agenda 2020-03-09
 Meeting Opened: 
 
 Present:
 
-Apologies: Zahra, Tom
+Apologies: 
 
 Absent: 
 
@@ -20,9 +20,10 @@ Absent:
      - Syllabus to be finalized in general business
      - ACTION: Events post for intro to programming and competitive programming
   - AGM
-    - This Friday
-    - All booked
-    - Interest from a few new people to become part of committee
+    - Was a success, we have a new committee
+  - Google at UWA
+    - Occuring after our Wednesday training session
+    - Promoted in events email 
   - Club Carnival
     - Minor success 
     - Did creep up on us (apologies from Nic)
@@ -43,12 +44,15 @@ Absent:
       - Every Div 1 Codeforces contest :')
     - Finalizing the syllabus
       - We do not leave this meeting until this is finalized
+    - Dealing with reallocation
+      - Current information is that we have a clubroom in Cameron Hall. The exact room is currently unknown 
+      - Heresay suggests large changes afoot; definitely shakes up many things
     
 ## President's report
   - Attended O-day
   - Attended Club carnival
   - Attended yet another Soc Meeting
-  - 
+  - Became president again
 
 ## Vice Pres's report
   

@@ -99,6 +99,7 @@ Absent:
     - Sysadmin 
   - SOC Meeting 24/3 5:30 Ross LT 
     - ACTION ? to attend 
+  - CS Department Reaching out
   
     
 ## President's report

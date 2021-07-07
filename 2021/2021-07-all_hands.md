@@ -41,8 +41,8 @@ What did we run?
   * Greedy Algorithms
   * Dynamic programming
 
-* What went right? 
-* What can we improve? 
+What went right? 
+What can we improve? 
 
 #### Intro to Programming
 What did we run? 
@@ -52,8 +52,8 @@ What did we run?
   * Linux foo
   * Quantum computing (x2 weeks)
 
-* What went right? 
-* what can we improve? 
+What went right? 
+what can we improve? 
 
 ### Social
 

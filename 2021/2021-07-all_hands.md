@@ -6,54 +6,123 @@
 - Venue: Discord
 
 ## Opening
-*Meeting Opened:* 
+*Meeting Opened:*
 
-Present: 
+Present: Ryan, Alan, Nic, Gozz, David, Hannah, Michael 
 
-Apologies: Bea 
+Apologies: Bea
 
-Absent:
+Absent: Stephen
 
 ## Semester 1 Recap (~30 minutes)
-* Survey results (~~only 2 responses :')~~ 7 now!) 
+* Survey results (~~only 2 responses :')~~ 7 now!)
+    * Most students are undergrads
+        * This is to be expected
+    * Everyone is programming in python
+        * Except that one dude doing julia (*cough* tim chapman)
+    * Everyone has participated in a contest this year
+    * Most people has attended workshops
+    * Some content was difficult
+    * Another feedback section only included people not having time and requests for shared drive content
 * Workshops are useful:
   * 6/7 of respondees wrote a note on the usefulness of the material
   * 6/6 of these notes were positive
-  * Good balance of Intro to Comp. Prog., and Intro to programming mentioned.  
+  * Good balance of Intro to Comp. Prog., and Intro to programming mentioned.
 * Improvements:
   * More time in workshops to do problems
   * Some comments on it being too theory-heavy in workshops
-    * [Ryan] I think we can split subjects up more 
-  * Computational geometry 
+    * [Ryan] I think we can split subjects up more
+  * Computational geometry
 
-### Competitions 
+* General comments
+  * A lot of people are finding some of our content overwhelming 
+      * Perhaps put little tips and tricks in the newsletter or reminders of our shared resources
+      * The club has a reputation of being intimidating
+  * People are signing up and not turing up
+      * We seem cool but scary
+  * Integrate access to our resources when people sign up for the mailing list
+  * People are finding the club intimidating 
+      * The word 'Competitive' scares people away 
+      * Need to rethink marketing
+  * Pods are a good way to introduce people to the area
+      * Need to stress that the objective is learning
+  * Could collaborate with Women in STEM/Engineering
+  * Could collaborate with Guild Womens Department 
+      * Has been explored in the past was not good
+      * Perhaps need more support in the pods
+          * Could explore deliberately grouping kinds of people
+  * Should include a pronouns section in the membership forms
+      * Definitely include in next years form
+  * Intimidation free introductions
+      * An issue for everyone
+      * Discord is good for combating this
+      * webpage is not very friendly
+          * Could move Dmoj to a subdomain so rest of website can be more approachable 
+  * Membership progression
+      * People tend to come for intro to programming and then are funneled into competitive programming
+  * User manual  (Fresher Guide)
+      * Current resources page is a good starting point
+          * Should be more personalized 
+          * Quickstart guide or fresher guide 
+      * Website needs a better content delivery system
+
+
+### Competitions
 
 ### Workshops
 
 #### Competitive Programming
-What did we run? 
+What did we run?
   * Intro to Competitive Programming
   * Sorting
   * Searching
   * String Structures
+      * Spent a lot of time on the basic (too much)
+      * Difference between representation and actual algorithms hard to balance
+      * Going through actual examples was difficult, as people zoned out 
+      * Conceptually challenging problems cause a lot of problems
+      * Should run this with examples 
+      * Write a Gym specifically for a hard algorithm
+          * break the problems down and approach one by one
+      * For strings specifically there is an issue with conceptual understanding versus semantic 
+      * Need to figure out where these algorithms go
+          * Take list of algorithms to cover and split it across various sessions
+      * Have a session on just dealing with strings in a persons language of choice and how to manipulate them
+          * Perhaps not a session but a resource on how to use them
+          * Could have a hackerrank style here is how to do it and then apply it to a different problem (especially in different languages)
   * Graphs pt. 1
-  * Graphs pt. 2 
+      * lots of talking less implementation
+      * Could have an evening online session working on graph algorithms and representation in a specific languages
+      * Also need to cover setting up the architecture of how to write code in a competition setting
+          * Weather to run it in c++ or python
+          * Perhaps java to bridge the understanding gap vs the technical gap
+  * Graphs pt. 2
+      * Was difficult according to participants
+      * Being clear in presentation in important
+          * Practice running sessions is important
+      * Explaining how to learn the algorithm is difficult
+      * Having a gym or practice examples that are approachable is important
+          * Learn by doing
   * Greedy Algorithms
   * Dynamic programming
+      * Needs multiple sessions
 
-What went right? 
-What can we improve? 
+What went right?
+What can we improve?
 
 #### Intro to Programming
-What did we run? 
+What did we run?
   * Intro to Programming (x3 weeks)
   * Outro to Programming
   * Git
   * Linux foo
   * Quantum computing (x2 weeks)
 
-What went right? 
-what can we improve? 
+What went right?
+  * has been good
+what can we improve?
+  * could be done as a oneshot on a saturday 
+      * Possibly run around week 3
 
 ### Social
 
@@ -67,16 +136,46 @@ what can we improve?
 
 ### Preliminary Plan
 
-## Handover for 2022 Committee (~30 Minutes) 
-* See 2021 template 
-* What session to run in the first few weeks? 
+1. Intro to competitive programming (Nic)
+2. Intro to graphs (Ryan)
+3. Graphs 2 (Michael with Alan backup)
+4. Dynamic programming (Gozz)
 
-## Semester 2 Social Events (~15 minutes) 
-* Re-vive the games night? 
+Computational Geometry (Gozz)
+Graph Flow (Alan)
 
-## Problem writing workshop (~30 minutes) 
+- Week 3 weekend run intro to programming oneshot
+- Intro to programming should be run in full again 
+    - Should be run not in week one so better advertising
+
+
+## Handover for 2022 Committee (~30 Minutes)
+* See 2021 template
+* What session to run in the first few weeks?
+* Might become an end of semester task
+
+## Semester 2 Social Events (~15 minutes)
+
+* Fresher welcome part 2
+* a games night is a possibility at some point
+
+
+## Problem writing workshop (~30 minutes)
+
 * feat. Nic.
+* Meta a+b 
+    * Write the a+b of writing a+b
 
+# ACTION Items
+
+- ACTION @Hannah @Alan: Brainstorm beginners guide ideas
+- ACTION @Ryan: Create provisional beginners guide document/structure 
+- ACTION @Hannah @Ryan: Draft intro email for semester 2
+- ACTION @Hannah: Research Automation possibilities for resources with membership signups 
+- ACTION @Ryan @Nic: Prepare week 2 graph intro session
+- ACTION @Ryan: Read all hands minutes again and provide summary 
+- ACTION @Everyone: Look at previous handover document and think about what to add for next year
+- ACTION @Gozz: look at potential meeting times
 
 
 

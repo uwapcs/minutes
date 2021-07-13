@@ -35,6 +35,7 @@ Absent:
 ## OCM's report (Stephen)
 
 ## IPP report (Nic)
+- Starting to write introductory problems
 
 ## Events
 

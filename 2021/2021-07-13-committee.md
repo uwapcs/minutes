@@ -10,7 +10,7 @@
 
 Present: 
 
-Apologies: 
+Apologies: Alan
 
 Absent: 
 
@@ -21,7 +21,8 @@ Absent:
 
 
 ## Treasurer's report (Alan)
-
+- Having a busy week hackathoning
+- Will start brainstorming for fresher's guide next week
 
 ## Secretary's report (David)
 

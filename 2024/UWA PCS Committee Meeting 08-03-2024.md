@@ -1,0 +1,121 @@
+# UWA PCS Committee Meeting 2024-03-08
+
+## Venue and Time:
+- Venue: Online
+- Time: 6PM
+
+## Opening:
+
+_Meeting Opened:_ 5:35PM
+
+Present: Jesse(President), Josh(Vice-President), Zachary(OCM), Aaron(Treasurer), Aidin(OCM), Jordan(OCM), Chris(Secretary)
+
+Apologies: 
+
+Absent: 
+
+## Handover of Accounts
+
+- Struggling to log into the gmail
+- Struggling to log into facebook
+- Excessive swearing
+- More swearing
+
+## Confirmation of Circular Motions
+
+## Reports
+
+### President's report (Jesse)
+
+
+### Vice Pres's report (Josh)
+
+
+### Treasurer's report (Aaron)
+
+
+### Secretary's report (Chris)
+
+
+
+### Fresh Rep's report (Chloe)
+
+
+
+### OCM's report (Conor)
+
+
+
+### OCM's report (Sersang)
+
+
+
+### OCM's report (Sophie)
+
+
+
+### IPP report (Alan)
+
+
+
+## General Business
+
+
+
+### Bitwarden and sites access
+
+
+### Delegation of work
+- Split into two teams. 
+- One for marketing and one for event booking.
+- Josh and Zach will do the booking.
+- Chris and Aidin will do the marketing.
+- ACTION: @Aidin to check facebook regularly.
+
+
+### IMC event: Sign up form, Room Booking, Pizza pick up, Invoice for prize money
+- ACTION: @Josh to book Ezone social.
+- ACTION: @Aaron to get the invoice of the prize money.
+
+### Optiver Event
+- ACTION: @Josh to do the google search.
+
+
+### Reimbursements
+
+
+### Regular Meeting Times
+- Everyone's happy with 5:30PM - 6:30PM Tuesdays. 
+
+### Uncharity Vigil
+- Committee does not wish to participate. 
+
+### PCS Website
+
+
+
+### More Sponsorships
+
+### Club Carnival
+- Secretary signed us up from last term
+- Jesse does not want to do it. We've already had O-Day so doesn't see much returns from it. 
+- MOTION: withdraw from carnival.
+    - FOR: 6, AGAINST: 0, ABSTAIN: 0
+    - Passes unanimously.
+
+## Previous Action Items
+
+
+## Action Items
+
+- Get access to google
+- ACTION: @Aidin to check facebook regularly.
+- ACTION: @Josh to book Ezone social.
+- ACTION: @Aaron to get the invoice of the prize money.
+- ACTION: @Josh to do the google search.
+
+## Postmortem
+
+_Meeting Closed:_ 6:20PM
+
+### Digressions: 
